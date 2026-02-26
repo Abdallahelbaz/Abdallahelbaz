@@ -1,19 +1,17 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Abdallahelbaz/Abdallahelbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior Machine Learning and NLP engineer with a strong interest in Large Language Models and modern AI technologies.  
+I enjoy building intelligent systems and continuously improving my skills in machine learning and deep learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Study: B.Sc. Computer Science, FH Dortmund  
+🧠 Focus: Natural Language Processing (NLP) & Machine Learning & LLMs
+ 
+
+📫 Email: abdallah.elbaz19@gmail.com 
+
+
 ## Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -27,20 +25,28 @@ Here are some ideas to get you started:
 ![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-35495e?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=rag&logoColor=white)
+![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval_Augmented_Generation-8B5CF6?style=for-the-badge&logo=rag&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Machine Learning Projects
-| S No | Project Name | Domain | Repository | End-to-End |
-| ------------ | -------------- | ---------- | --------- | --------- |
-| 01 | Airbnb Price Prediction | Classification | [![GitHub Repo]()]() | <p align="center">✔</p> |
+| Project Number | Project Name |  Repository | Description |
+| ------------ | -------------- | ---------- | --------- |
+| 01 |  |  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]() |Classification | <p align="center">✔</p> |
 
 ### NLP Projects
-| S No | Project Name | Domain | Repository | End-to-End |
-| ------------ | -------------- | ---------- | --------- | --------- |
+| Project Number | Project Name |  Repository | Description |
+| ------------ | -------------- | ---------- | --------- | 
 
 ### Deep Learning Projects
-| S No | Project Name | Domain | Repository | End-to-End |
-| ------------ | -------------- | ---------- | --------- | --------- |
+| Project Number | Project Name |  Repository | Description |
+| ------------ | -------------- | ---------- | --------- |
 
 ### LLM Projects
-| S No | Project Name | Domain | Repository | End-to-End |
-| ------------ | -------------- | ---------- | --------- | --------- |
+| Project Number | Project Name |  Repository | Description |
+| ------------ | -------------- | ---------- | --------- | 
+| 01 | Finte Tunning IMDB | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Finte-Tunning-IMDB)| Notebook |
