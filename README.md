@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Machine Learning Projects
 | S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
-| 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
+| 01 | Airbnb Price Prediction | Classification | [![GitHub Repo]()]() | <p align="center">✔</p> |
 
 ### NLP Projects
 | S No | Project Name | Domain | Repository | End-to-End |
