@@ -42,11 +42,15 @@ I enjoy building intelligent systems and continuously improving my skills in mac
 | Project Number | Project Name |  Repository | Description |
 | ------------ | -------------- | ---------- | --------- | 
 | 01 | Email Spam Filtering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Email-Spam-Filtering) | Text Binary Classification | 
+
 ### Deep Learning Projects
 | Project Number | Project Name |  Repository | Description |
 | ------------ | -------------- | ---------- | --------- |
 
 ### LLM Projects
-| Project Number | Project Name |  Repository | Description |
-| ------------ | -------------- | ---------- | --------- | 
-| 01 | Finte Tunning IMDB | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Finte-Tunning-IMDB)| Notebook |
+| Project Number | Project Name |  Repository | Description | Details |
+| ------------ | -------------- | ---------- | --------- | --------- |
+| 01 | Ask-Your-PDF | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Ask-Your-PDF)| End To End | Rag |
+| 02 | Finte Tunning IMDB | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Finte-Tunning-IMDB)| Notebook | |
+| 03 | Fine-Tuning Techniques Comparison | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Fine-Tuning-Techniques-Comparison)| Notebook ||
+
