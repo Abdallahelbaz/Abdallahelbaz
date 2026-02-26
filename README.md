@@ -36,12 +36,12 @@ I enjoy building intelligent systems and continuously improving my skills in mac
 ### Machine Learning Projects
 | Project Number | Project Name |  Repository | Description |
 | ------------ | -------------- | ---------- | --------- |
-| 01 | Airline Delay Prediction  |  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Airline-Delay-Cause) | Linear Regression | <p align="center">✔</p> |
+| 01 | Airline Delay Prediction  |  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Airline-Delay-Cause) | Linear Regression |
 
 ### NLP Projects
 | Project Number | Project Name |  Repository | Description |
 | ------------ | -------------- | ---------- | --------- | 
-
+| 01 | Email Spam Filtering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Email-Spam-Filtering) | Text Binary Classification | 
 ### Deep Learning Projects
 | Project Number | Project Name |  Repository | Description |
 | ------------ | -------------- | ---------- | --------- |
