@@ -53,4 +53,6 @@ I enjoy building intelligent systems and continuously improving my skills in mac
 | 01 | Ask-Your-PDF | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Ask-Your-PDF)| End To End | Rag |
 | 02 | Finte Tunning IMDB | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Finte-Tunning-IMDB)| Notebook | |
 | 03 | Fine-Tuning Techniques Comparison | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Fine-Tuning-Techniques-Comparison)| Notebook ||
+| 04 | Anas | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Anas) |Notebook | Small Language Model From Scratch |
+| 05 | Fine-Tuning-Lora-Details-Extraction-and-Translation- | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Fine-Tuning-Lora-Details-Extraction-and-Translation-) |Notebook | | 
 
