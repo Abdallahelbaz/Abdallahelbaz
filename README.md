@@ -34,9 +34,10 @@ I enjoy building intelligent systems and continuously improving my skills in mac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Machine Learning Projects
-| Project Number | Project Name |  Repository | Description |
-| ------------ | -------------- | ---------- | --------- |
-| 01 | Airline Delay Prediction  |  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Airline-Delay-Cause) | Linear Regression |
+| Project Number | Project Name |  Repository | Description | Details |
+| ------------ | -------------- | ---------- | --------- |--------- |
+| 01 | Airline Delay Prediction  |  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/Airline-Delay-Cause) |Notebook| Linear Regression |
+| 02 | Churn Classification  |  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Abdallahelbaz/E2EChurnClassification) |End To End| Classification |
 
 ### NLP Projects
 | Project Number | Project Name |  Repository | Description |
